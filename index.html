@@ -5,16 +5,56 @@
         <title>short-color-names</title>
         <meta name="description" content="CSS color names that are as short as or shorter than their corresponding hexcodes.">
         <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css">
+        <style>
+            html {
+                max-width: 30rem;
+                margin-right: auto;
+                margin-left: auto;
+                padding: 1rem 2rem 2rem;
+                font: .875em/1.7 "Helvetica Neue", sans-serif;
+                color: #222;
+                background-color: azure;
+            }
+
+            a {
+                text-decoration: none;
+                color: tomato;
+            }
+
+            table {
+                width: 100%;
+            }
+
+            th,
+            td {
+                border: 1px solid;
+                padding: .5rem 1rem;
+                background-color: snow;
+            }
+
+            footer {
+                margin-top: 2rem;
+                border-top: 1px solid;
+                padding-top: 1rem;
+            }
+
+            @media (min-width: 26em) {
+                html {
+                    font-size: 1.25em;
+                }
+            }
+        </style>
     </head>
     <body>
-        <h1>short-color-names</h1>
+        <h1><a href="//github.com/chrisnager/short-color-names">short-color-names</a></h1>
 
-        <p>CSS color names that are as short as or shorter than their corresponding hexcodes.</p>
+        <p>These are the CSS color names that are as short as or shorter than their corresponding hexcodes.</p>
         <p>Feel free to use these color names in production because they have just as many or less characters in their color names than they have in their hexcodes.</p>
 
         <h2>For example:</h2>
 
-        <u>
+        <ul>
             <li>The CSS color name <code>red</code> has three characters while it's hexcode <code>#f00</code> has four characters.</li>
             <li>The CSS color name <code>indigo</code> has six characters while it's hexcode <code>#4b0082</code> has seven characters.</li>
             <li>The CSS color name <code>crimson</code> has seven characters while it's hexcode <code>#dc143c</code> also has seven characters.</li>
@@ -30,7 +70,7 @@
             <tbody>
                 <tr>
                     <td><code>aqua</code></td>
-                    <td><code>#00ffff</code></td>
+                    <td><code>#0ff</code></td>
                 </tr>
                 <tr>
                     <td><code>azure</code></td>
@@ -46,7 +86,7 @@
                 </tr>
                 <tr>
                     <td><code>blue</code></td>
-                    <td><code>#0000ff</code></td>
+                    <td><code>#00f</code></td>
                 </tr>
                 <tr>
                     <td><code>brown</code></td>
@@ -62,7 +102,7 @@
                 </tr>
                 <tr>
                     <td><code>cyan</code></td>
-                    <td><code>#00ffff</code></td>
+                    <td><code>#0ff</code></td>
                 </tr>
                 <tr>
                     <td><code>darkred</code></td>
@@ -110,7 +150,7 @@
                 </tr>
                 <tr>
                     <td><code>lime</code></td>
-                    <td><code>#00ff00</code></td>
+                    <td><code>#0f0</code></td>
                 </tr>
                 <tr>
                     <td><code>linen</code></td>
@@ -158,7 +198,7 @@
                 </tr>
                 <tr>
                     <td><code>red</code></td>
-                    <td><code>#ff0000</code></td>
+                    <td><code>#f00</code></td>
                 </tr>
                 <tr>
                     <td><code>salmon</code></td>
@@ -206,5 +246,9 @@
                 </tr>
             </tbody>
         </table>
+
+        <footer>
+            <small>Crafted by <a href="//twitter.com/chrisnager">@chrisnager</a> &middot; View on <a href="//github.com/chrisnager/short-color-names">GitHub</a></small>
+        </footer>
     </body>
 </html>
