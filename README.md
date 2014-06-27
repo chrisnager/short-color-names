@@ -18,11 +18,11 @@ Feel free to use these color names in production because they have just as many 
 
 Color name | Hexcode
 ---------- | ----------
-`aqua`     | `#00ffff`
+`aqua`     | `#0ff`
 `azure`    | `#f0ffff`
 `beige`    | `#f5f5dc`
 `bisque`   | `#ffe4c4`
-`blue`     | `#0000ff`
+`blue`     | `#00f`
 `brown`    | `#a52a2a`
 `coral`    | `#ff7f50`
 `crimson`  | `#dc143c`
@@ -38,7 +38,7 @@ Color name | Hexcode
 `indigo`   | `#4b0082`
 `ivory`    | `#fffff0`
 `khaki`    | `#f0e68c`
-`lime`     | `#00ff00`
+`lime`     | `#0f0`
 `linen`    | `#faf0e6`
 `maroon`   | `#800000`
 `navy`     | `#000080`
@@ -50,7 +50,7 @@ Color name | Hexcode
 `pink`     | `#ffc0cb`
 `plum`     | `#dda0dd`
 `purple`   | `#800080`
-`red`      | `#ff0000`
+`red`      | `#f00`
 `salmon`   | `#fa8072`
 `sienna`   | `#a0522d`
 `silver`   | `#c0c0c0`
