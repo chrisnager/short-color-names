@@ -1,6 +1,6 @@
 # [&#9986; short-color-names](//chrisnager.github.io/short-color-names)
 
-CSS color names that are as short as or shorter than their corresponding hexcodes.
+The 44 CSS color names that are as short as or shorter than their corresponding hexcodes.
 
 Feel free to use these color names in production because they have just as many or less characters in their color names than they have in their hexcodes. [Check it out](//chrisnager.github.io/short-color-names).
 
@@ -14,7 +14,7 @@ Feel free to use these color names in production because they have just as many 
 
 
 
-## List of short color names
+## List of the 44 short color names
 
 Color name | Hexcode
 ---------- | ----------
