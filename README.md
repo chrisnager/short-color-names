@@ -1,6 +1,6 @@
 # [&#9986; short-color-names](//chrisnager.github.io/short-color-names)
 
-The 44 CSS color names that are as short as or shorter than their corresponding hexcodes.
+The 45 CSS color names that are as short as or shorter than their corresponding hexcodes.
 
 Feel free to use these color names in production because they have just as many or less characters in their color names than they have in their hexcodes. [Check it out](//chrisnager.github.io/short-color-names).
 
@@ -14,54 +14,55 @@ Feel free to use these color names in production because they have just as many 
 
 
 
-## List of the 44 short color names
+## List of the 45 short color names
 
-Color name | Hexcode
----------- | ----------
-`aqua`     | `#0ff`
-`azure`    | `#f0ffff`
-`beige`    | `#f5f5dc`
-`bisque`   | `#ffe4c4`
-`blue`     | `#00f`
-`brown`    | `#a52a2a`
-`coral`    | `#ff7f50`
-`crimson`  | `#dc143c`
-`cyan`     | `#00ffff`
-`darkred`  | `#8b0000`
-`dimgray`  | `#696969`
-`dimgrey`  | `#696969`
-`gold`     | `#ffd700`
-`gray`     | `#808080`
-`green`    | `#008000`
-`grey`     | `#808080`
-`hotpink`  | `#ff69b4`
-`indigo`   | `#4b0082`
-`ivory`    | `#fffff0`
-`khaki`    | `#f0e68c`
-`lime`     | `#0f0`
-`linen`    | `#faf0e6`
-`maroon`   | `#800000`
-`navy`     | `#000080`
-`oldlace`  | `#fdf5e6`
-`olive`    | `#808000`
-`orange`   | `#ffa500`
-`orchid`   | `#da70d6`
-`peru`     | `#cd853f`
-`pink`     | `#ffc0cb`
-`plum`     | `#dda0dd`
-`purple`   | `#800080`
-`red`      | `#f00`
-`salmon`   | `#fa8072`
-`sienna`   | `#a0522d`
-`silver`   | `#c0c0c0`
-`skyblue`  | `#87ceeb`
-`snow`     | `#fffafa`
-`tan`      | `#d2b48c`
-`teal`     | `#008080`
-`thistle`  | `#d8bfd8`
-`tomato`   | `#ff6347`
-`violet`   | `#ee82ee`
-`wheat`    | `#f5deb3`
+Color name    | Hexcode
+------------- | ----------
+`aqua`        | `#0ff`
+`azure`       | `#f0ffff`
+`beige`       | `#f5f5dc`
+`bisque`      | `#ffe4c4`
+`blue`        | `#00f`
+`brown`       | `#a52a2a`
+`coral`       | `#ff7f50`
+`crimson`     | `#dc143c`
+`cyan`        | `#00ffff`
+`darkred`     | `#8b0000`
+`dimgray`     | `#696969`
+`dimgrey`     | `#696969`
+`gold`        | `#ffd700`
+`gray`        | `#808080`
+`green`       | `#008000`
+`grey`        | `#808080`
+`hotpink`     | `#ff69b4`
+`indigo`      | `#4b0082`
+`ivory`       | `#fffff0`
+`khaki`       | `#f0e68c`
+`lime`        | `#0f0`
+`linen`       | `#faf0e6`
+`maroon`      | `#800000`
+`navy`        | `#000080`
+`oldlace`     | `#fdf5e6`
+`olive`       | `#808000`
+`orange`      | `#ffa500`
+`orchid`      | `#da70d6`
+`peru`        | `#cd853f`
+`pink`        | `#ffc0cb`
+`plum`        | `#dda0dd`
+`purple`      | `#800080`
+`red`         | `#f00`
+`salmon`      | `#fa8072`
+`sienna`      | `#a0522d`
+`silver`      | `#c0c0c0`
+`skyblue`     | `#87ceeb`
+`snow`        | `#fffafa`
+`tan`         | `#d2b48c`
+`teal`        | `#008080`
+`thistle`     | `#d8bfd8`
+`tomato`      | `#ff6347`
+`violet`      | `#ee82ee`
+`wheat`       | `#f5deb3`
+`transparent` | `rgba(0,0,0,0)`
 
 
 
